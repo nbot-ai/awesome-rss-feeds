@@ -216,7 +216,7 @@ NBot allows you to create AI-powered curators that automatically discover, read,
 - Cross-platform content aggregation
 - Smart deduplication and quality filtering
 
-[Try NBot Free](https://nbot.ai) | [Documentation](https://docs.nbot.ai)
+[Try NBot Free](https://nbot.ai)
 
 ---
 
