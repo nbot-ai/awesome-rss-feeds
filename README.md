@@ -2,8 +2,8 @@
 
 > A curated collection of high-quality RSS feeds across various categories, maintained by [NBot](https://nbot.ai) - an AI-powered content curation platform.
 
-![RSS Feeds](https://img.shields.io/badge/RSS_Feeds-120+-blue)
-![Categories](https://img.shields.io/badge/Categories-11-green)
+![RSS Feeds](https://img.shields.io/badge/RSS_Feeds-200+-blue)
+![Categories](https://img.shields.io/badge/Categories-12-green)
 ![License](https://img.shields.io/badge/License-CC0_1.0-lightgrey)
 
 ## Contents
@@ -18,6 +18,7 @@
 - [Travel & Lifestyle](#travel--lifestyle)
 - [Web Development](#web-development)
 - [Special Interest & Hobbies](#special-interest--hobbies)
+- [Tech Blogs (HN Popular 2025)](#tech-blogs-hn-popular-2025)
 - [Contributing](#contributing)
 - [About NBot](#about-nbot)
 
@@ -172,6 +173,105 @@
 | Paper and Stitch | `https://feeds.feedburner.com/papernstitchblog/?format=rss` |
 | The Gymter | `https://thegymter.net/feed/` |
 | Crochet Crowd | `https://thecrochetcrowd.com/feed/` |
+
+## Tech Blogs (HN Popular 2025)
+
+> Curated from [Andrej Karpathy's recommendation](https://x.com/karpathy) - the most popular blogs on Hacker News in 2025.
+
+| Source | RSS Feed |
+|--------|----------|
+| Simon Willison | `https://simonwillison.net/atom/everything/` |
+| Jeff Geerling | `https://www.jeffgeerling.com/blog.xml` |
+| Sean Goedecke | `https://www.seangoedecke.com/rss.xml` |
+| Krebs on Security | `https://krebsonsecurity.com/feed/` |
+| Daring Fireball | `https://daringfireball.net/feeds/main` |
+| Eric Migicovsky | `https://ericmigi.com/rss.xml` |
+| Antirez | `http://antirez.com/rss` |
+| Ibrahim Diallo | `https://idiallo.com/feed.rss` |
+| Maurycy Zarzycki | `https://maurycyz.com/index.xml` |
+| Pluralistic (Cory Doctorow) | `https://pluralistic.net/feed/` |
+| Terence Eden | `https://shkspr.mobi/blog/feed/` |
+| lcamtuf (Substack) | `https://lcamtuf.substack.com/feed` |
+| Mitchell Hashimoto | `https://mitchellh.com/feed.xml` |
+| Dynomight | `https://dynomight.net/feed.xml` |
+| Chris Siebenmann | `https://utcc.utoronto.ca/~cks/space/blog/?atom` |
+| Xe Iaso | `https://xeiaso.net/blog.rss` |
+| The Old New Thing (Raymond Chen) | `https://devblogs.microsoft.com/oldnewthing/feed` |
+| Ken Shirriff | `https://www.righto.com/feeds/posts/default` |
+| Armin Ronacher | `https://lucumr.pocoo.org/feed.atom` |
+| Skyfall | `https://skyfall.dev/rss.xml` |
+| Gary Marcus | `https://garymarcus.substack.com/feed` |
+| Rachel by the Bay | `https://rachelbythebay.com/w/atom.xml` |
+| Overreacted (Dan Abramov) | `https://overreacted.io/rss.xml` |
+| Tim Schwartz | `https://timsh.org/rss/` |
+| John D. Cook | `https://www.johndcook.com/blog/feed/` |
+| Giles Thomas | `https://gilesthomas.com/feed/rss.xml` |
+| matklad (Alex Kladov) | `https://matklad.github.io/feed.xml` |
+| Derek Thompson (The Atlantic) | `https://www.theatlantic.com/feed/author/derek-thompson/` |
+| Evan Hahn | `https://evanhahn.com/feed.xml` |
+| Terrible Software | `https://terriblesoftware.org/feed/` |
+| Rakhim | `https://rakhim.exotext.com/rss.xml` |
+| Joan Westenberg | `https://joanwestenberg.com/rss` |
+| Xania | `https://xania.org/feed` |
+| Micah Lee | `https://micahflee.com/feed/` |
+| Andrew Nesbitt | `https://nesbitt.io/feed.xml` |
+| Construction Physics | `https://www.construction-physics.com/feed` |
+| Tedium | `https://feed.tedium.co/` |
+| Susam Pal | `https://susam.net/feed.xml` |
+| Entropic Thoughts | `https://entropicthoughts.com/feed.xml` |
+| Hillel Wayne | `https://buttondown.com/hillelwayne/rss` |
+| Dwarkesh Patel | `https://www.dwarkeshpatel.com/feed` |
+| Fernando Borretti | `https://borretti.me/feed.xml` |
+| Where's Your Ed At | `https://www.wheresyoured.at/rss/` |
+| Jay Daigle | `https://jayd.ml/feed.xml` |
+| Max Woolf | `https://minimaxir.com/index.xml` |
+| George Hotz | `https://geohot.github.io/blog/feed.xml` |
+| Paul Graham | `http://www.aaronsw.com/2002/feeds/pgessays.rss` |
+| The Digital Antiquarian | `https://www.filfre.net/feed/` |
+| Jim Nielsen | `https://blog.jim-nielsen.com/feed.xml` |
+| Dave Farquhar | `https://dfarq.homeip.net/feed/` |
+| jyn | `https://jyn.dev/atom.xml` |
+| Geoffrey Litt | `https://www.geoffreylitt.com/feed.xml` |
+| Doug Brown | `https://www.downtowndougbrown.com/feed/` |
+| Brutecat | `https://brutecat.com/rss.xml` |
+| Eli Bendersky | `https://eli.thegreenplace.net/feeds/all.atom.xml` |
+| Abort Retry Fail | `https://www.abortretry.fail/feed` |
+| Fabien Sanglard | `https://fabiensanglard.net/rss.xml` |
+| Old VCR | `https://oldvcr.blogspot.com/feeds/posts/default` |
+| Bogdan | `https://bogdanthegeek.github.io/blog/index.xml` |
+| Hugo Tunius | `https://hugotunius.se/feed.xml` |
+| Gwern | `https://gwern.substack.com/feed` |
+| Bert Hubert | `https://berthub.eu/articles/index.xml` |
+| Chadnauseam | `https://chadnauseam.com/rss.xml` |
+| Simone | `https://simone.org/feed/` |
+| IT Notes | `https://it-notes.dragas.net/feed/` |
+| Beej | `https://beej.us/blog/rss.xml` |
+| Hey Paris | `https://hey.paris/index.xml` |
+| Daniel Wirtz | `https://danielwirtz.com/rss.xml` |
+| Mat Duggan | `https://matduggan.com/rss/` |
+| Refactoring English | `https://refactoringenglish.com/index.xml` |
+| Works on My Machine | `https://worksonmymachine.substack.com/feed` |
+| Philip Laine | `https://philiplaine.com/index.xml` |
+| Steve Blank | `https://steveblank.com/feed/` |
+| Max Bernstein | `https://bernsteinbear.com/feed.xml` |
+| Daniel Delaney | `https://danieldelaney.net/feed` |
+| Troy Hunt | `https://www.troyhunt.com/rss/` |
+| Herman | `https://herman.bearblog.dev/feed/` |
+| Tom Renner | `https://tomrenner.com/index.xml` |
+| Pixel Melt | `https://blog.pixelmelt.dev/rss/` |
+| Martin Alderson | `https://martinalderson.com/feed.xml` |
+| Daniel Chase Hooper | `https://danielchasehooper.com/feed.xml` |
+| Simon Tatham | `https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/feed.xml` |
+| Grant Slatton | `https://grantslatton.com/rss.xml` |
+| Experimental History | `https://www.experimental-history.com/feed` |
+| Anil Dash | `https://anildash.com/feed.xml` |
+| Marcin Wichary | `https://aresluna.org/main.rss` |
+| Michael Stapelberg | `https://michael.stapelberg.ch/feed.xml` |
+| Miguel Grinberg | `https://blog.miguelgrinberg.com/feed` |
+| Keygen | `https://keygen.sh/blog/feed.xml` |
+| Matthew Garrett | `https://mjg59.dreamwidth.org/data/rss` |
+| computer.rip | `https://computer.rip/rss.xml` |
+| Ted Unangst | `https://www.tedunangst.com/flak/rss` |
 
 ---
 
