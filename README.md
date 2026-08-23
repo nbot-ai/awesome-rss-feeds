@@ -53,6 +53,7 @@
 | MIT News AI | `http://news.mit.edu/rss/topic/artificial-intelligence2` |
 | VentureBeat | `https://venturebeat.com/feed/` |
 | Google AI Blog | `http://googleresearch.blogspot.com/atom.xml` |
+| [Storefront Brief](https://fortune-insight.onrender.com/shop/brief/index.html) | `https://fortune-insight.onrender.com/shop/brief/feed.xml` |
 
 ## Business & Finance
 
