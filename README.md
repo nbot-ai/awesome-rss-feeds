@@ -43,6 +43,7 @@
 
 | Source | RSS Feed |
 |--------|----------|
+| AIHOT Daily (Chinese) | `https://aihot.news/feed/daily.xml` |
 | The Verge | `https://www.theverge.com/rss/index.xml` |
 | The Register | `https://www.theregister.com/headlines.atom` |
 | DeepMind | `https://deepmind.com/blog/feed/basic/` |
